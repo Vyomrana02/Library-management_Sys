@@ -49,7 +49,12 @@ class Books(models.Model):
     description = models.TextField(blank=True, null= True)
     author = models.TextField(blank=True, null= True)
     publisher = models.CharField(max_length=250)
-    date_published = models.DateTimeField()
+    date_publisdhed
+    
+    
+    
+    
+    ished = models.DateTimeField()
     status = models.CharField(max_length=2, choices=(('1','Active'), ('2','Inactive')), default = 1)
     delete_flag = models.IntegerField(default = 0)
     date_added = models.DateTimeField(default = timezone.now)
