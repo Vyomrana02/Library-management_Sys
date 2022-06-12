@@ -55,11 +55,11 @@ class Books(models.Model):
     date_added = models.DateTimeField(default = timezone.now)
     date_created = models.DateTimeField(auto_now = True)
 
-    # class Meta:
-    #     verbose_name_plural = "List of Books"
+    class Meta:
+        verbose_name_plural = "List of Books"
 
-    # def __str__(self):
-    #     return str(f"{self.isbn} - {self.title}")
+    def __str__(self):
+        return str(f"{self.isbn} - {self.title}")
 
 
 class Students(models.Model):
