@@ -18,7 +18,7 @@ class Category(models.Model):
     status = models.CharField(max_length=2, choices=(('1','Active'), ('2','Inactive')), default = 1)
     delete_flag = models.IntegerField(default = 0)
     date_added = models.DateTimeField(default = timezone.now)
-    date_created = models.DateTimeField(auto_now = True)
+    date_created = models.DateTimeField(auto_now = true)
 
     class Meta:
         verbose_name_plural = "List of Categories"
