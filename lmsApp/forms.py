@@ -21,10 +21,7 @@ class SaveUser(UserCreationForm):
 
     class Meta:
         model = User
-        fields = ('email', 'username','first_name', 
- 
-                  
-                  'last_name','password1', 'password2',)
+        fields = ('email', 'username','first_name','last_name','password1', 'password2',)
 
 class UpdateProfile(UserChangeForm):
     username = forms.CharField(max_length=250,help_text="The Username field is required.")
