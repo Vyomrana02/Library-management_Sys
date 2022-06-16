@@ -50,10 +50,10 @@ borrowed.
 ![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
 ![PYTHON](https://img.shields.io/badge/backend-python-orange.svg?logo=python&style=flat-square) 
 ![DJANGO](https://img.shields.io/badge/backend-django-lightgray.svg?logo=django&logoColor=white&style=flat-square) 
-
+![SQLITE3](https://img.shields.io/badge/database-sqlite3-lightblue.svg?logo=sqlite)
 - Front End - **HTML**, **CSS**, **JavaScript**
-- Back End - **PHP**
-- Database - **MySql**
+- Back End - **Python**,**Django**
+- Database - **Sqlite3**
 
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
