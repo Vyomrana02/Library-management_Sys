@@ -44,6 +44,17 @@ borrowed.
 * ❏ View All Books in Library.
 
 
+
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
+![PYTHON](https://img.shields.io/badge/backend-python-blue.svg?logo=php&style=flat-square) 
+![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
+
+- Front End - **HTML**, **CSS**, **JavaScript**
+- Back End - **PHP**
+- Database - **MySql**
+
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/vyomrana/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
