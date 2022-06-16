@@ -48,8 +48,8 @@ borrowed.
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
-![PYTHON](https://img.shields.io/badge/backend-python-blue.svg?logo=php&style=flat-square) 
-![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
+![PYTHON](https://img.shields.io/badge/backend-python-orange.svg?logo=python&style=flat-square) 
+![DJANGO](https://img.shields.io/badge/backend-django-lightgray.svg?logo=django&logoColor=white&style=flat-square) 
 
 - Front End - **HTML**, **CSS**, **JavaScript**
 - Back End - **PHP**
